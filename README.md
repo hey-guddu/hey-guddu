@@ -1,5 +1,4 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
-![MasterHead](https://media.licdn.com/dms/image/C5612AQErLJQyuT4h2Q/article-inline_image-shrink_1500_2232/0/1624597705774?e=1726704000&v=beta&t=hF1jcCLkt1hoBZ1lBZxzuVg8Vkg70m5A-2Wlpkbaxz4)
 <h1 align="center">Hi 👋, I'm Aditya Kumar Behera</h1>
 <h3 align="center">A passionate Frontend Developer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
