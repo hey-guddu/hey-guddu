@@ -31,3 +31,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hey-guddu&show_icons=true&locale=en&theme=dark" alt="hey-guddu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hey-guddu&theme=dark" alt="hey-guddu" /></p>
+
+[![roadmap.sh](https://roadmap.sh/card/tall/67b3d78d98abd86c99103465?variant=dark)](https://roadmap.sh)
